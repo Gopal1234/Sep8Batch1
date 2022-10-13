@@ -1,0 +1,2 @@
+Mobile  18000
+Laptop -80000
